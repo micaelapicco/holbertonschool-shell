@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cut -d' ' -f1 file
+echo $(cut -d ' ' -f1)
