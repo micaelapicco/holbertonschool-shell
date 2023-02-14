@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((%.2F$NUM))
+printf "%2.f \n" $NUM
