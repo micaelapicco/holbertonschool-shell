@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(BINARY(OBASE=2,10))
+echo $(BINARY(obase=2; ibase=10))
