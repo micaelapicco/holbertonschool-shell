@@ -1,6 +1,0 @@
-#!/bin/bash
-echo "File name?"
-read name
-echo "#!/bin/bash" >$name
-chmod u+x $name
-vi $name
