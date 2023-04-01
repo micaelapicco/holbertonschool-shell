@@ -1,7 +1,0 @@
-#!/bin/bash
-echo "name?" 
-read name
-echo '#!/bin/bash' > $name 
-chmod u+x $name
-vi $name
-
